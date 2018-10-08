@@ -1,0 +1,1 @@
+This repository contains code to predict the price of single family and residential condo homes in Burlington, Vermont. I have currently engineered several features and fit a number of algorithms to the data. Future updates include further geographic analysis.
